@@ -1,5 +1,5 @@
 # FloppyBirdie
-Project made for my university studies
+This project is made strictly for aducational purposes, and is not going to be used commercialy
 
-# Engine
-Unity 3D 2021.3.15f1
+# Technical stuff
+Made using Unity 2021.3.15f1
